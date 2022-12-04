@@ -13,7 +13,7 @@ namespace StrategyPattern
             v1.Boi();
             v1.CachBay();
             v1.CachKeu();
-            Console.WriteLine("_________________________");
+            Console.WriteLine("__________________________");
             Vit v2 = new VitCaoSu();
             v2.SetHanhViBay(new KhongBay());
             v2.SetHanhViKeu(new KhongKeu());
